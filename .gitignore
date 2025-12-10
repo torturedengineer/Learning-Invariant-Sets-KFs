@@ -1,0 +1,9 @@
+venv/
+archive/
+results/
+paper_plots/
+__pycache__/
+*.npz
+*.pkl
+*.csv
+*.log
