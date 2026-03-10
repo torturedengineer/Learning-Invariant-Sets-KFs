@@ -104,6 +104,7 @@ OUT_DIR     = "figures"
 ```
 
 Then run all cells to reproduce all paper figures.
+Full per-system figures: https://drive.google.com/drive/folders/1n5m-MaSOrycq7-SxbfJw4GpEz81K1XgS?usp=drive_link
 
 ---
 
