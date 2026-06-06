@@ -136,7 +136,26 @@ Median HD: **0.323** (IQR: 0.045–5.070) · Median runtime: **~138s/system**
 **Hausdorff Metric-Based Kernel Flows for Learning Invariant Sets in Dynamical Systems**  
 Juee Jahagirdar, Boumediene Hamzi, Houman Owhadi, Yannis Kevrekidis
 
-Manuscript under review (2025)
+*Physica D: Nonlinear Phenomena*, 2026.  
+DOI: [10.1016/j.physd.2026.135287](https://doi.org/10.1016/j.physd.2026.135287)
+
+---
+## Citation
+
+If you use this code or build on this work, please cite:
+
+```bibtex
+@article{Jahagirdar2026HMKF,
+  title   = {Hausdorff Metric-Based Kernel Flows for Learning Invariant Sets
+             in Dynamical Systems},
+  author  = {Jahagirdar, Juee and Hamzi, Boumediene and
+             Owhadi, Houman and Kevrekidis, Yannis},
+  journal = {Physica D: Nonlinear Phenomena},
+  year    = {2026},
+  doi     = {10.1016/j.physd.2026.135287},
+  url     = {https://doi.org/10.1016/j.physd.2026.135287}
+}
+```
 
 ---
 
